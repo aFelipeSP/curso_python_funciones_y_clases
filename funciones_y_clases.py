@@ -68,6 +68,8 @@ def pares_medias():
     El objetivo de esta función es devolver un diccionario cuyas keys son cada 
     uno de los colores que se encuentren en la lista, y los valores son la 
     cantidad de pares que se han encontrado para cada color.
+    
+    Las medias que no tengan pares no deberían ser incluídas en el diccionario.
     '''
     pass
 
